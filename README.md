@@ -143,7 +143,7 @@ nível de overfitting aceitável e compatível com as outras configurações tes
 
 ## Vídeo de apresentação
 
-📹 *Link do vídeo será adicionado após a gravação.*
+📹 [Assista à apresentação do projeto no Google Drive](https://drive.google.com/file/d/1fGBb_vAApC_m0UK-F2OqqdRXv9_tF0k6/view?usp=drive_link)
 
 ## Autor
 
